@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "dataVersion": "1.0.241107",
+  "title": "Мой Дом — Законы",
+  "updatedAt": "2026-08-27",
+  "source": "RP-server legal reference",
+  "files": [
+    "laws/criminal-code.json",
+    "laws/criminal-procedure-code.json",
+    "laws/road-code-nizhny-novgorod.json",
+    "laws/labor-code.json",
+    "laws/administrative-code.json",
+    "laws/constitution.json",
+    "laws/protected-territories-law.json"
+  ]
+}
