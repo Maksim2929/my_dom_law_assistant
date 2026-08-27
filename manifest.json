@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "dataVersion": "1.0.817853",
+  "dataVersion": "1.0.526057",
   "title": "Мой Дом — Законы",
-  "updatedAt": "2026-08-27T03:20:23",
+  "updatedAt": "2026-08-27T03:26:44",
   "files": [
     "laws/constitution.json",
     "laws/criminal-code.json",
