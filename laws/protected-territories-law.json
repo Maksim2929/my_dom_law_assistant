@@ -1,6 +1,26 @@
 {
   "category": "ФКЗ о ЗОТ",
-  "version": "1.0.733165",
-  "updatedAt": "2026-08-27T19:06:18",
-  "articles": []
+  "version": "1.0.808231",
+  "updatedAt": "2026-08-27T19:08:24",
+  "articles": [
+    {
+      "id": "custom-1787846902177",
+      "category": "ФКЗ о ЗОТ",
+      "document": "ФКЗ о ЗОТ",
+      "articleNumber": "sassa",
+      "title": "asdsa",
+      "text": "sadsa",
+      "punishment": "asdda",
+      "note": "sadsa",
+      "tags": [
+        "sad"
+      ],
+      "section": "",
+      "chapter": "",
+      "flags": [],
+      "sourceFile": "",
+      "updatedAt": "2026-08-27",
+      "version": "1.0.0"
+    }
+  ]
 }
