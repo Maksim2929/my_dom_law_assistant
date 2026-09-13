@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
-  "dataVersion": "1.0.501871",
+  "dataVersion": "1.0.167076",
   "title": "Мой Дом — Правовой справочник",
-  "updatedAt": "2026-09-13T17:47:34",
+  "updatedAt": "2026-09-13T17:48:55",
   "articleCount": 387,
   "files": [
     "laws/criminal-code.json",
